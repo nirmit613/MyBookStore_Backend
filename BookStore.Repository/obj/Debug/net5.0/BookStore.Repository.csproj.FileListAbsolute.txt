@@ -1,0 +1,15 @@
+C:\Users\Nirmit Valand\source\repos\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.deps.json
+C:\Users\Nirmit Valand\source\repos\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.dll
+C:\Users\Nirmit Valand\source\repos\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.pdb
+C:\Users\Nirmit Valand\source\repos\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Models.dll
+C:\Users\Nirmit Valand\source\repos\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Models.pdb
+C:\Users\Nirmit Valand\source\repos\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.AssemblyReference.cache
+C:\Users\Nirmit Valand\source\repos\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirmit Valand\source\repos\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfoInputs.cache
+C:\Users\Nirmit Valand\source\repos\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfo.cs
+C:\Users\Nirmit Valand\source\repos\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Nirmit Valand\source\repos\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CopyComplete
+C:\Users\Nirmit Valand\source\repos\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.dll
+C:\Users\Nirmit Valand\source\repos\BookStore\BookStore.Repository\obj\Debug\net5.0\refint\BookStore.Repository.dll
+C:\Users\Nirmit Valand\source\repos\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.pdb
+C:\Users\Nirmit Valand\source\repos\BookStore\BookStore.Repository\obj\Debug\net5.0\ref\BookStore.Repository.dll
